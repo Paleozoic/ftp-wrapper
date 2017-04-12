@@ -1,3 +1,6 @@
+
+# TODO：打算支持多种FTP协议
+-----------------------
 Simple object oriented wrapper for Apache FTPClient.
 
 Using [Apache FTPClient](https://commons.apache.org/proper/commons-net/apidocs/org/apache/commons/net/ftp/FTPClient.html)
